@@ -1,0 +1,375 @@
+#EXTM3U
+#EXTINF:-1,---- < BO  CUONG > ---
+http://lucky.lts1.net:23000/live/luca1/luca2/13132.ts
+
+#EXTINF:0, NATIONAL GEOGRAPHIC CHANEL
+udp://@225.1.1.244:30120
+#EXTINF:0, National Geographic HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/200px-National_Geographic_Channel.svg.png",National Geographic HD
+udp://@225.1.2.235:30120
+#EXTINF:0, Discovery tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Discovery_Channel_International.svg/240px-Discovery_Channel_International.svg.png",Discovery
+udp://@225.1.1.238:30120
+#EXTINF:0, Discovery World HD tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/34/Discovery_world_hd_%28small_globe%29.png/220px-Discovery_world_hd_%28small_globe%29.png",Discovery World HD
+udp://@225.1.2.223:30120
+#EXTINF:0, Animal Planet tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/190px-Animal_Planet_logo_%28black_and_green%29.svg.png",Animal Planet
+udp://@225.1.1.231:30120
+#EXTINF:0,AFC-HD
+udp://@225.1.1.198:30120
+#EXTINF:0,Da Vinci HD
+udp://@225.1.1.197:30120
+#EXTINF:0,OUTDOOR HD
+udp://@225.1.2.215:30120
+
+
+#EXTINF:0,===========KENH PHIM TRUYEN===========
+udp://@225.1.1.0:30120
+
+#EXTINF:0, AXN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/250px-AXN_logo.svg.png",AXN
+udp://@225.1.2.225:30120
+#EXTINF:0, AXN tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/AXN_logo.svg/250px-AXN_logo.svg.png",AXN
+udp://@225.1.2.224:30120
+#EXTINF:0,HBO tvg-logo="http://bcdbimages.s3.amazonaws.com/other/logo/hbo.jpg",HBO
+udp://@225.1.2.233:30120
+#EXTINF:0,StarMovie HD tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/STAR_Movies_logo.svg/220px-STAR_Movies_logo.svg.png",StarMovie HD
+udp://@225.1.2.238:30120
+#EXTINF:0,R&D-HBO
+udp://@225.1.1.89:30120
+#EXTINF:-1 group-title="QUOC TE", CINEMAX
+udp://@225.1.1.230:30120
+#EXTINF:0,SGEM-HD
+udp://@225.1.1.60:30120
+#EXTINF:0,Star World HD tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/STAR_World_2013.png/200px-STAR_World_2013.png",Star World HD
+udp://@225.1.2.237:30120
+#EXTINF:0,Diva Universal tvg-logo= "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Diva_Universal.svg/200px-Diva_Universal.svg.png",Diva Universal
+udp://@225.1.1.199:30120
+#EXTINF:-1 group-title="QUOC TE", FASHION TV HD
+udp://@225.1.2.226:30120
+
+
+#EXTINF:-1,===========TRUYEN HINH VTVCab===========
+udp://@225.1.1.0:30120
+#EXTINF:-1,VTV1 HD group-title="VTV-VTC" tvg-logo="http://img.htvonline.com.vn/livetv/21082013/vtv1_51961377055325.png", VTV 1
+udp://@225.1.2.249:30120
+#EXTINF:-1,VTV2 group-title="VTV-VTVcab", VTV2 HD tvg-logo="http://img.htvonline.com.vn/livetv/15042014/vtv2_56311397551336.png", VTV 2
+udp://@225.1.1.249:30120
+#EXTINF:-1,VTV3 HD group-title="VTV-VTC"  tvg-logo="http://img.htvonline.com.vn/livetv/16062014/vtv3_20711402902808.png", VTV 3 HD
+udp://@225.1.2.246:30120
+#EXTINF:-1,VTV 6 HD group-title="VTV-VTC" tvg-logo="http://img.htvonline.com.vn/livetv/16062014/vtv6_43081402902871.png", VTV 6 HD
+udp://@225.1.2.244:30120
+#EXTINF:-1,VTV8 HD
+udp://@225.1.2.142:30120
+
+#EXTINF:-1,HANOI 1 HD
+udp://@225.1.2.186:30120
+#EXTINF:-1,HANOI 2
+udp://@225.1.2.108:30120
+#EXTINF:-1 VTC1 HD logo="http://img.htvonline.com.vn/livetv/14072016/vtc1hd_78841468490609.png", VTC1 HD 
+udp://@225.1.2.254:30120
+#EXTINF:-1 VTC HD3 tvg-logo="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/h-u/max-22-08/vtchd3.jpg" ,VTC HD3
+udp://@225.1.2.251:30120
+#EXTINF:-1 VTC 4 tvg-logo="http://nth.com.vn/NTH/Image/Kenh/Chanel_VTC4.jpg" ,VTC 4
+udp://@225.1.2.200:30120
+#EXTINF:-1 VTC HD2 tvg-logo="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/h-u/max-22-08/vtc-hd2_w122_h122.jpg" ,VTC HD2
+udp://@225.1.2.253:30120
+#EXTINF:-1 VTC3 HD tvg-logo="http://img.htvonline.com.vn/livetv/13072016/vtc3hd_34121468404917.png", VTC HD3
+udp://@225.1.2.251:30120
+#EXTINF:-1, VTC2
+udp://@225.1.2.63:30120
+#EXTINF:-1 group-title="VTV-VTC" tvg-logo="http://img.htvonline.com.vn/livetv/14072016/vtc14hd_41371468486664.png", VTC14 HD
+udp://@225.1.2.88:30120
+#EXTINF:-1, ANNINH THEGIOI
+udp://@225.1.1.208:30120
+#EXTINF:-1, ANTV
+udp://@225.1.2.169:30120
+#EXTINF:-1,QPVN HD
+udp://@225.1.2.217:30120
+#EXTINF:-1,NHAN DAN HD tvg-logo="http://img.htvonline.com.vn/livetv/18072016/logo-nhan-dan-hd_93611468833361.png", Nhân Dân HD
+udp://@225.1.1.91:30120
+#EXTINF:-1,QUOC HOI HD  tvg-logo="http://img.htvonline.com.vn/livetv/14072016/logo_quochoi_10331468490368.png", QUOC HOI HD
+udp://@225.1.2.149:30120
+#EXTINF:-1 TTXVN (VNEWS) tvg-logo="http://img.htvonline.com.vn/livetv/14072016/ttxvn_42581468491623.png", TTXVN (VNEWS)
+udp://@225.1.1.54:30120
+#EXTINF:-1,THVL1 HD 
+udp://@225.1.1.155:30120 
+#EXTINF:-1,THVL2 HD 
+udp://@225.1.1.154:30120
+#EXTINF:-1,HTV2-HD tvg-logo="http://img.htvonline.com.vn/livetv/26042014/htv2_52321398488170.png",HTV2-HD
+udp://@225.1.1.193:30120
+#EXTINF:-1,HTV7-HD tvg-logo="http://img.htvonline.com.vn/livetv/27122013/htv7_27951388138557.png",HTV7-HD
+udp://@225.1.1.191:30120
+#EXTINF:-1,HTV9-HD tvg-logo="http://img.htvonline.com.vn/livetv/27122013/htv_9_96011388139602.png",HTV9-HD
+udp://@225.1.1.189:30120
+
+#EXTINF:-1,HTVC-FILM HD
+udp://@225.1.1.184:30120
+#EXTINF:0, VIETNAMNET
+udp://@225.1.2.109:30120
+#EXTINF:0,===========TRUYEN HINH THE THAO===========
+udp://@225.1.1.0:30120
+#EXTINF:0,Bong da TV HD tvg-logo="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/0001.png",Bong da TV HD
+udp://@225.1.2.242:30120
+#EXTINF:0, BongDa TV HD tvg-logo="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/0001.png",Bong da TV HD
+udp://@225.1.2.243:30120
+#EXTINF:0,The thao TV HD tvg-logo="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/20140614/logo3.png",The thao TV HD
+udp://@225.1.2.241:30120
+
+#EXTINF:0,HTV Thể thao HD tvg-logo="http://img.htvonline.com.vn/livetv/23112015/htvthethaohd_49551448253116.png", HTV Thể Thao HD 
+udp://@225.1.1.165:30120
+#EXTINF:0, VTVcab 3 - The Thao TV tvg-logo="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab33_w122_h122.png",VTVcab 3 - The Thao TV
+udp://@225.1.2.54:30120
+#EXTINF:0,VTVcab 16 - Bong Da TV tvg-logo="http://www.vtvcab.vn/content/upload/1/home/partnercarousel/2014008/2014009/vtvcab-16_w122_h122.png" ,VTVcab 16 - Bong Da TV
+udp://@225.1.2.160:30120
+#EXTINF:-1,VTC3 HD group-title="VTV-VTC" tvg-logo="http://img.htvonline.com.vn/livetv/13072016/vtc3hd_34121468404917.png", VTC HD3
+udp://@225.1.2.251:30120
+#EXTINF:-1,VTC 3 tvg-logo= "http://www.vtvcab.vn/content/upload/1/home/partnercarousel/h-u/max-22-08/vtc3hd.jpg",VTC 3
+udp://@225.1.2.201:30120
+#EXTINF:0,FOX Sports HD tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FSR-4cBluetxt-color-hi-res.png/200px-FSR-4cBluetxt-color-hi-res.png",FOX Sports HD
+udp://@225.1.2.228:30120
+#EXTINF:0,FOX Sports 2 HD tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Fox_Sports_2_logo.png/200px-Fox_Sports_2_logo.png",FOX Sports 2 HD
+udp://@225.1.1.141:30120
+
+#EXTINF:-1,AR:BEIN_SPORTS_1HD steamfull
+http://176.31.226.149:25461/live/testest/testest/339.ts
+#EXTINF:-1,AR:BEIN_SPORTS_2HD steamfull
+http://176.31.226.149:25461/live/testest/testest/338.ts
+#EXTINF:-1,AR:BEIN_SPORTS_3HD steamfull
+http://176.31.226.149:25461/live/testest/testest/337.ts
+#EXTINF:-1,AR:BEIN_SPORTS_4HD steamfull
+http://176.31.226.149:25461/live/testest/testest/336.ts
+
+
+#EXTINF:0,FOX SPORT
+udp://@225.1.1.239:30120
+#EXTINF:0,FOX SPORT 2
+udp://@225.1.1.241:30120
+#EXTINF:-1, NBC GOLF SD
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC GOLF 720p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1, NBC GOLF 1080p
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",MATCH FUTBOL 1
+http://tv.beeb.vn/stream/matchfootball1/playlist.m3u8|User-Agent=Mozilla/5.0
+
+
+#EXTINF:0,=========== SPORTS SUPER=========== 
+udp://@225.1.1.0:30120  
+
+
+#EXTINF:-1,BT Sport 1
+http://127.0.0.1:6878/ace/getstream?id=e502c197dde3921551957ef2ec08fc6bbdc663ae&.mp4
+
+
+#EXTINF:0,===========ACESTREAM SPORTS=========== 
+udp://@225.1.1.0:30120  
+
+
+
+#EXTINF:-1,BT Sport 1
+http://localhost:9996/p2p.m3u?url=acestream://1cfbc10635f0388a8e92ea8154a6602a2869d84d&mode=1
+
+#EXTINF:-1,BT Sport 1
+http://localhost:9996/p2p.m3u?url=acestream://e502c197dde3921551957ef2ec08fc6bbdc663ae&mode=1
+
+#EXTINF:-1,BT Sport 2
+http://localhost:9996/p2p.m3u?url=acestream://04b38c71065be18d799edf8c37d63e738030b84d&mode=1
+
+#EXTINF:-1,FSR SPORTS  1  FRANCE 
+http://localhost:9996/p2p.m3u?url=acestream://05665fa2a1f1ec62e62920cfec3751a0e9586f0d&mode=1
+#EXTINF:-1,FSR SPORTS  2  FRANCE 
+http://localhost:9996/p2p.m3u?url=acestream://c879e9d56239c55331033f1ab04b768a955b95db&mode=1
+
+#EXTINF:-1,FS1
+http://localhost:9996/p2p.m3u?url=acestream://9a8fd4918cb4f864e0d63a6821a55806f68dc0cc&mode=1
+#EXTINF:-1,BEINSPORT US
+http://localhost:9996/p2p.m3u?url=acestream://7064ed08ee876a36061d43b646a00524f27141fd&mode=1
+#EXTINF:-1,BEINSPORT 1 FRANCE  HD 
+http://localhost:9996/p2p.m3u?url=acestream://00ec28a5137eff6e4274f28391e9577bc885f32b&mode=1
+
+#EXTINF:-1,BEINSPORT1 FRANCE 
+http://localhost:9996/p2p.m3u?url=acestream://00ec28a5137eff6e4274f28391e9577bc885f32b&mode=1
+#EXTINF:-1,BEINSPORT 2 FRANCE  HD 
+http://localhost:9996/p2p.m3u?url=acestream://f0b7875f4311e34cada858a0146a8d25ed485d3a&mode=1
+#EXTINF:-1,BEINSPORT 3 FRANCE
+http://localhost:9996/p2p.m3u?url=acestream://d0adf8e6b274b6d55ca90651ee67d946873a5ff7&mode=1
+#EXTINF:-1,NBCSN
+http://localhost:9996/p2p.m3u?url=acestream://2a3974d916e1af4a81655b1e8d6e0c08ac08b5fe&mode=1
+#EXTINF:-1, PREMIER SPORTS 
+http://localhost:9996/p2p.m3u?url=acestream://e4d9f7188e4403523c32717a98093671f8931101&mode=1
+
+
+
+
+#EXTINF:-1,BEINSPORT SPAIN 
+http://localhost:9996/p2p.m3u?url=acestream://2e6eea7aa2f35516fadf7046bdb5cc3fe08261bc&mode=1
+#EXTINF:-1,BEINSPORT LA LIGA HD
+http://localhost:9996/p2p.m3u?url=acestream://f5fc0d3847c7027cfbe7d6c6c64bf76191de02b1&mode=1
+#EXTINF:-1,SPORT TV1 PORTUGAL  HD 
+http://localhost:9996/p2p.m3u?url=acestream://983e2192ed5bac57b84a305a26884b679affaddd&mode=1
+#EXTINF:-1,SPORT TV2 PORTUGAL
+http://localhost:9996/p2p.m3u?url=acestream://b7943ae1f4b55cfc53baf5bbe9fbcbb39c7bea6d&mode=1
+#EXTINF:-1,SPORT TV3 PORTUGAL
+http://localhost:9996/p2p.m3u?url=acestream://f14245d7494ff19ff016bbd7a6561006e74deb90&mode=1
+#EXTINF:-1,SPORT TV4 PORTUGAL
+http://localhost:9996/p2p.m3u?url=acestream://710f5d897920c17493bda6c1adddb2c2679ce3a4&mode=1
+#EXTINF:-1,SPORT TV5 PORTUGAL 
+http://localhost:9996/p2p.m3u?url=acestream://b408857e4904dd53a693653b7d8b53567da20be1&mode=1
+#EXTINF:-1,SPORT TV PORTUGAL 
+http://localhost:9996/p2p.m3u?url=acestream://9184f499f0917af6acabb22ce4b299f6570a450d&mode=1
+
+
+#EXTINF:-1,Sky Sports 1  ITALY 
+http://localhost:9996/p2p.m3u?url=acestream://986ea9418dd4604df704e04ff9dc44948562d839&mode=1
+
+#EXTINF:-1, SKY SPORTS 1 HD GERMANI 
+http://localhost:9996/p2p.m3u?url=acestream://1d16ac4bd2cf22ccbf77df87009c2d965349d7e2&mode=1
+#EXTINF:-1, SKY SPORTS 2 HD GERMANI 
+http://localhost:9996/p2p.m3u?url=acestream://020c5aca8f118683e28900ba982aa88526a7356d&mode=1
+#EXTINF:-1, SKY SPORT AUSTRIA GERMANY
+http://localhost:9996/p2p.m3u?url=acestream://020c5aca8f118683e28900ba982aa88526a7356d&mode=1
+
+
+#EXTINF:-1,Sky Sports 1 
+http://localhost:9996/p2p.m3u?url=acestream://92f9a34c12787497ea6053582be0c05cb5ab9d9a&mode=1
+#EXTINF:-1,Sky Sports 1 
+http://localhost:9996/p2p.m3u?url=acestream://56506f4520084676a361b2f2165a8c315db43e14&mode=1
+
+#EXTINF:-1,Sky Sports 2
+http://localhost:9996/p2p.m3u?url=acestream://6b2fb9a9e67aaabd63004059147dfdc46e882aba&mode=1
+
+
+
+#EXTINF:-1,Sky Sports 2
+http://localhost:9996/p2p.m3u?url=acestream://8e5f67a32e3df4c250d7481167e002110c47fde4&mode=1
+
+
+#EXTINF:-1,Sky Sports 3
+http://localhost:9996/p2p.m3u?url=acestream://6ec624cdd23346b5712100ffeaa8bd20b776384a&mode=1
+
+
+#EXTINF:-1,Sky Sports 4
+http://localhost:9996/p2p.m3u?url=acestream://4288c3e2d1a06413e8ba497299c3c59243a52af0&mode=1
+
+
+#EXTINF:-1,Sky Sports 5 (Спорт)
+http://localhost:9996/p2p.m3u?url=acestream://f683dca6a4a825435f3605d0a832b5178e79c5d9&mode=1
+
+#EXTINF:-1,Sky Sports F1 HD
+http://localhost:9996/p2p.m3u?url=acestream://969dbafa76bbd0ca37d73629f392c83fcf9cc295&mode=1
+
+#EXTINF:-1,Sky Sports F1 HD
+http://localhost:9996/p2p.m3u?url=acestream://bea4d78d37b0d2c4077bdbfdd78e78f54b0e5799&mode=1
+
+
+#EXTINF:-1,SKY SPORT MIX UK
+http://localhost:9996/p2p.m3u?url=acestream://969dbafa76bbd0ca37d73629f392c83fcf9cc295&mode=1
+#EXTINF:-1,SKY SPORT BOX OFFICE UK
+http://localhost:9996/p2p.m3u?url=acestream://49531cbda169500ada739315d179ed8eb12c41d5&mode=1
+
+#EXTINF:-1,Canal Sport 2 HD
+http://localhost:9996/p2p.m3u?url=acestream://f00e6dc58e57f500cde35db3fb1f24193cbe1e99&mode=1
+#EXTINF:-1,Sports TV (Спорт)
+http://localhost:9996/p2p.m3u?url=acestream://748ddc8b140f8059ece20af7c35085a7c0482a88&mode=1
+#EXTINF:-1,Super Tennis HD 
+http://localhost:9996/p2p.m3u?url=acestream://111d650225e7b7fb8f0f1e968c6aa7f8b86684bd&mode=1
+#EXTINF:-1,TSN 1 
+http://localhost:9996/p2p.m3u?url=acestream://4e5abe370e1bfa45a5d8dfb510431b662ab90225&mode=1
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,VTVcab16 Bongda HD
+http://localhost:9996/p2p.m3u?url=acestream://3235cf9277a59ed3d835dae5dff1ddaab400c3a2&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,MyBongda Sport
+http://localhost:9996/p2p.m3u?url=acestream://eed0229bf3a33bb91ad017f3d486e7e374286ad7&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BT SPORT 1
+http://localhost:9996/p2p.m3u?url=acestream://e502c197dde3921551957ef2ec08fc6bbdc663ae&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BT SPORT 2
+http://localhost:9996/p2p.m3u?url=acestream://33b428a9cec1d7d2cd2809d8e49a687e167378a6&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BT SPORT 3
+http://localhost:9996/p2p.m3u?url=acestream://66ce42b59cd7028be149ee7e7ca17066910b2db3&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SKY SPORT 1
+http://localhost:9996/p2p.m3u?url=acestream://56506f4520084676a361b2f2165a8c315db43e14&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SKY SPORT 2
+http://localhost:9996/p2p.m3u?url=acestream://6b2fb9a9e67aaabd63004059147dfdc46e882aba&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SKY SPORT 3
+http://localhost:9996/p2p.m3u?url=acestream://4dbce55abecd154ff71b3477a332bd63611309e5&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SKY SPORT 4
+http://localhost:9996/p2p.m3u?url=acestream://969a42388e101e6c6d9574a311e4b387a6ff1413&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SKY SPORT 5
+http://localhost:9996/p2p.m3u?url=acestream://f683dca6a4a825435f3605d0a832b5178e79c5d9&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SKY SPORT F1
+http://localhost:9996/p2p.m3u?url=acestream://969dbafa76bbd0ca37d73629f392c83fcf9cc295&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,Setanta Sports HD 
+http://localhost:9996/p2p.m3u?url=acestream://41dda4b866fc8fe54133ce042abe773b1404d27a&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,Premier Sports 
+http://localhost:9996/p2p.m3u?url=acestream://e4d9f7188e4403523c32717a98093671f8931101&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,ESPN
+http://localhost:9996/p2p.m3u?url=acestream://1202c004338963090e2da1e960392f3a12b24177&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,NBCSN US
+plugin://program.plexus/?url=acestream://2a3974d916e1af4a81655b1e8d6e0c08ac08b5fe&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,FS1 US
+http://localhost:9996/p2p.m3u?url=acestream://c7ff8cc9e8e98b6c249d379263cd31850989cbac&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BEIN SPORT ES
+http://localhost:9996/p2p.m3u?url=acestream://2e6eea7aa2f35516fadf7046bdb5cc3fe08261bc&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BEIN LA LIGA SPAIN
+http://localhost:9996/p2p.m3u?url=acestream://f5fc0d3847c7027cfbe7d6c6c64bf76191de02b1&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BEIN SPORT 1 FRANCE
+http://localhost:9996/p2p.m3u?url=acestream://00ec28a5137eff6e4274f28391e9577bc885f32b&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BEIN SPORT 2 FRANCE
+http://localhost:9996/p2p.m3u?url=acestream://f0b7875f4311e34cada858a0146a8d25ed485d3a&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BEIN SPORT 3 FRANCE
+http://localhost:9996/p2p.m3u?url=acestream://d0adf8e6b274b6d55ca90651ee67d946873a5ff7&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,BEIN SPORT 1 TURKEY
+http://localhost:9996/p2p.m3u?url=acestream://3945a315a0903d7db3a909c66d91a01e3f7ccf83&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SKYNET SPORT HD
+http://localhost:9996/p2p.m3u?url=acestream://f1f703dee1e333831c003be50d57f238b51057e8&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SUPER TENNIS ITALY
+http://localhost:9996/p2p.m3u?url=acestream://beb5b7ca3d08cd264919af78730dc35cc3adbf0e&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,ARENA SPORT 2 
+http://localhost:9996/p2p.m3u?url=acestream://a5fa3b2415fcfd6fa9d65d72f8abf4fe127a8d09&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,ARENA SPORT 3
+http://localhost:9996/p2p.m3u?url=acestream://86e490e2ac897375c7449d458a436b000b87918f&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,ARENA SPORT 4
+http://localhost:9996/p2p.m3u?url=acestream://39b1946e738415f284acd64720f3019e48dfbf37&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,ARENA SPORT 5
+http://localhost:9996/p2p.m3u?url=acestream://c01ce3cc326419cdc0db3775447deebf08d23d66&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET ONE US
+http://localhost:9996/p2p.m3u?url=acestream://fe61b821aed6d9ea6eb9738b67a6b5076550d8a5&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET WEST US
+http://localhost:9996/p2p.m3u?url=acestream://f837516598125785ee9ba48b121c5874361e6b79&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET PACIFIC US
+http://localhost:9996/p2p.m3u?url=acestream://f4a4ab6d93a8d864a4bda868708274feeb244134&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET ONTARIO US
+http://localhost:9996/p2p.m3u?url=acestream://7c806df3418f3012bf220f059968cedd386d444d&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET WORLD US
+http://localhost:9996/p2p.m3u?url=acestream://d5bdd288d1c321fc4c4f82345449e95bd4090be9&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,SPORTSNET 360 US
+http://localhost:9996/p2p.m3u?url=acestream://c29503a75690b7ecda8dc4b42f2049944a7dbbc3&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,CANAL SPORTS POLAND
+http://localhost:9996/p2p.m3u?url=acestream://9c49b233876731d02aa9d0a586381a9e9ff6a644&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,CANAL SPORTS 2 POLAND
+http://localhost:9996/p2p.m3u?url=acestream://9b49b8a86858cbce85c799a1d18dfac39f43af2c&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,MATSH FUTBOL 1
+http://localhost:9996/p2p.m3u?url=acestream://0c498acb9fca59cf89f8180f3bcd7aa7171ae4af&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,MATSH FUTBOL 2
+http://localhost:9996/p2p.m3u?url=acestream://c2eb663d4bc1d0fced00858e4011af4c8a0aae4f&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,MATSH FUTBOL 3
+http://localhost:9996/p2p.m3u?url=acestream://2130ae43514edcfa348eee7fa142b31cbf5df8ab&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,FUTBOL 1
+http://localhost:9996/p2p.m3u?url=acestream://c2e442b4fcfb99936fb465641aa6a9b279d21671&mode=1
+#EXTINF:-1 group-title="Sports" tvg-logo="" ,FUTBOL 2
+http://localhost:9996/p2p.m3u?url=acestream://a200b433ed7efbf3073c18a4a84bc2c0cadc3425&mode=1
+
+
+
+#EXTINF:-1, Sky Sport 1
+http://localhost:9996/p2p.m3u?url=http://content.asplaylist.net/15679.acelive&mode=1
+
+#EXTINF:-1, Sky Sport 5
+http://localhost:9996/p2p.m3u?url=http://content.asplaylist.net/15672.acelive&mode=1
+
+#EXTINF:-1, BT Sport 3
+http://localhost:9996/p2p.m3u?url=http://content.asplaylist.net/15672.acelive&mode=1
+
+
+#EXTINF:0,=========== XXXXXXX =========== 
+udp://@225.1.1.0:30120  
